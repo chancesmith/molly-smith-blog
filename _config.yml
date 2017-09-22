@@ -1,0 +1,16 @@
+# Site settings
+title: Molly Smith
+description: A Love for Music and Kids
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mollysmith.org" # the base hostname & protocol for your site
+twitter_username: nope
+github_username:  nope
+
+# Build settings
+markdown: kramdown
+
+permalink: /:year/:month/:day/:title/
+
+google_analytics: UA-0000000-1
+
+disqus_shortname: nope
